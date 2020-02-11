@@ -1,0 +1,19 @@
+.homeheader{
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.homebody{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 20px;
+}
+.styleSearch{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
